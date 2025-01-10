@@ -1,0 +1,7 @@
+C:\Users\MrNattyDread\source\repos\ConsoleApp1CSharp\bin\Debug\ConsoleApp1CSharp.exe.config
+C:\Users\MrNattyDread\source\repos\ConsoleApp1CSharp\bin\Debug\ConsoleApp1CSharp.exe
+C:\Users\MrNattyDread\source\repos\ConsoleApp1CSharp\bin\Debug\ConsoleApp1CSharp.pdb
+C:\Users\MrNattyDread\source\repos\ConsoleApp1CSharp\obj\Debug\ConsoleApp1CSharp.csproj.AssemblyReference.cache
+C:\Users\MrNattyDread\source\repos\ConsoleApp1CSharp\obj\Debug\ConsoleApp1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MrNattyDread\source\repos\ConsoleApp1CSharp\obj\Debug\ConsoleApp1CSharp.exe
+C:\Users\MrNattyDread\source\repos\ConsoleApp1CSharp\obj\Debug\ConsoleApp1CSharp.pdb

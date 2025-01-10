@@ -1,0 +1,10 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

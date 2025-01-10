@@ -1,0 +1,10 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.pdb
