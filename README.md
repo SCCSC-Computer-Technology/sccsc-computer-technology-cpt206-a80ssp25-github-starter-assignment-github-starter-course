@@ -99,6 +99,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 * I'm really looking forward to this course this time around Mr. C!
 * I'm still getting used to GitHub, but I'm excited and ready for the challenge.
+* I recently committed my changes but had to go back in and create a separate branch. HA!
   
 
 ## 📚  Resources 
